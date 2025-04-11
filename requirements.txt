@@ -1,0 +1,13 @@
+Python==3.10.0
+streamlit
+PyPDF2
+pytesseract
+pdf2image
+python-dotenv
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+google-generativeai
+faiss-cpu
+Pillow
